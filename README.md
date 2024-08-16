@@ -1,5 +1,5 @@
 <div align="center">    
-  <center><h1><marquee>Gustavo Sobrera</marquee></h1></center></marquee>
+  <center><marquee><h1>Gustavo Sobrera</marquee></h1></center>
   <img width="100%" height="500px" src="https://github.com/user-attachments/assets/d158b3a9-a60f-4114-8f10-92e0eb19d543" />
 </div>
 
