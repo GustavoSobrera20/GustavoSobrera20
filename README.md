@@ -1,6 +1,7 @@
 <div align="center">    
   <center><marquee><h1>Gustavo Sobrera</marquee></h1></center>
-  <img width="100%" height="500px" src="https://github.com/user-attachments/assets/d158b3a9-a60f-4114-8f10-92e0eb19d543" />
+  <img width="100%" height="500px" src="![image](https://github.com/user-attachments/assets/48b06a24-bbd2-4804-980c-98b09a42cda7)
+" />
 </div>
 
 ***
