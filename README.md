@@ -24,7 +24,6 @@
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-321435?style=for-the-badge&logo=php&logoColor=9a77e6)&nbsp;
 
 
 ***
