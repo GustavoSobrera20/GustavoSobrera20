@@ -1,4 +1,6 @@
-
+<div align="rigth">    
+  <img align="rigth" width="40%" height="250px" src="https://steamuserimages-a.akamaihd.net/ugc/1655601092778752787/E56BABA884C0FACFBF6757AE15B6F07BBBBDEE8C/?imw=450&impolicy=Letterbox" />
+</div>
 <img align="left" height="110" alt="coding-time" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif">
   <a href="https://github.com/GustavoSobrera20">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
