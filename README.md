@@ -1,8 +1,9 @@
-<div align="center">    
-  <img width="100%" height="500px" src="https://media.tenor.com/04DAOXPZ1twAAAAC/luffy-luffy-gear-5.gif"/>
-</div>
-   <center><marquee><h1>Gustavo Sobrera</marquee></h1></center>
-***
+
+
+<img width="20%" height="170px" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif"/>
+  <a href="https://github.com/GustavoSobrera20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSobrera20&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ## Conhecimentos:
 
@@ -26,3 +27,4 @@
 
 
 ***
+
