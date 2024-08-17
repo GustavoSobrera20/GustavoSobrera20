@@ -1,6 +1,6 @@
 <div align="center">    
   <center><marquee><h1>Gustavo Sobrera</marquee></h1></center>
-  <img width="100%" height="500px" src="https://images.app.goo.gl/v1NbfpJpKGegSxNv7"/>
+  <img width="100%" height="500px" src="https://media.tenor.com/04DAOXPZ1twAAAAC/luffy-luffy-gear-5.gif"/>
 </div>
 
 ***
