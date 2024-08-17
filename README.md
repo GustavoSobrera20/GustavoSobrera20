@@ -1,15 +1,15 @@
-<div align="rigth">    
-  <img align="rigth" width="40%" height="250px" src="https://steamuserimages-a.akamaihd.net/ugc/1655601092778752787/E56BABA884C0FACFBF6757AE15B6F07BBBBDEE8C/?imw=450&impolicy=Letterbox" />
-</div>
-<img align="left" height="110" alt="coding-time" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif">
-  <a href="https://github.com/GustavoSobrera20">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSobrera20&layout=compact&langs_count=6&theme=tokyonight"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section-header"/>
 
+<div align="center"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=500&lines=HELLO+my+name+is+Gustavo+Sobrera;i'am+16+years+old;And+i'am+From+brazil" alt="Typing SVG" /></a></div>
+
+
+***
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoSobrera20&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Conhecimentos:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-
+<img align="right" height="110" alt="coding-time" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif">
 ## Ferramentas:
 
 ![GITHUB](https://img.shields.io/badge/GITHUB-321435?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -30,6 +30,8 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 
-
-***
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSobrera20&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>
 
