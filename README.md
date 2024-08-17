@@ -2,8 +2,8 @@
 
 <img width="20%" height="170px" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif"/>
   <a href="https://github.com/GustavoSobrera20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSobrera20&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSobrera20&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ## Conhecimentos:
 
@@ -23,7 +23,6 @@
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> </picture>
 
-<br><br>
 
 ## Estudando no Momento:
 
