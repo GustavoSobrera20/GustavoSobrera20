@@ -1,6 +1,5 @@
 
-
-<img width="20%" height="170px" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif"/>
+<img align="left" height="110" alt="coding-time" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif">
   <a href="https://github.com/GustavoSobrera20">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSobrera20&layout=compact&langs_count=6&theme=tokyonight"/>
