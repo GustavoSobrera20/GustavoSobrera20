@@ -22,9 +22,15 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-321435?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-321435?style=for-the-badge&logo=visual-studio&logoColor=1E90FF&labelColor=0D1117)&nbsp;
 
+## Status:
+<div align="center">
+     <img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavoSobrera20&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSobrera20&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages"/></div>
+
+<center>
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> </picture>
-
+</center>
 
 ## Estudando no Momento:
 
