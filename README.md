@@ -35,10 +35,7 @@
 </center>
  
 ## Estudando no Momento:
-![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
- 
+ <img src="https://skillicons.dev/icons?i=php" alt="HTML, CSS, JavaScript, C#, MySQL,  " />
 <p align="centre"><b>Visitors Count</b></p> 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSobrera20&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
