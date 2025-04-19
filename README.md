@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section-header"/>
+<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section-header"/>
  
 <div align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=500&lines=HELLO+my+name+is+Gustavo+Sobrera;i'am+17+years+old;And+i'am+From+brazil" alt="Typing SVG" /></a></div>
